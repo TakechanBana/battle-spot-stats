@@ -1,6 +1,5 @@
 # battle-spot-stats
-Shows usage data from the Pokemon Global Link
-Currently only scrapes data from the special ladder (VGC16)
+Shows usage data from the Pokemon Global Link. Currently only grabs data from the special ladder (VGC16)
 
 # debugging
 npm install, then npm run dev.
