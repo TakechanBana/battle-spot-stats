@@ -39,7 +39,7 @@ class Pokemon extends Component {
               rowSpan='2'
               style={imageUtils.getBackgroundImageFromImgKey1(imgKey1)}
               >
-              {types[0]}
+              {rank}
             </td>
             <td>{this._renderListData(items, 'Items')}</td>
             <td>{this._renderListData(moves, 'Moves')}</td>

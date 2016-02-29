@@ -1,5 +1,5 @@
 const defaultSelected = {
-  'Pokemon': '700-0',
+  'Pokemon': '302-0',
   'Items': 'Weakness Policy',
   'Abilities': 'Intimidate',
   'Moves': 'Double-Edge'

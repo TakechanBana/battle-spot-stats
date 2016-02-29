@@ -3,7 +3,7 @@ import { defaultSelected } from './../constants/default-contexts.jsx'
 
 const initialState = {
   context: 'Pokemon',
-  selected: '700-0',
+  selected: '302-0',
   sortBy: 'rank'
 }
 

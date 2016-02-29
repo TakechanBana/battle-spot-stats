@@ -2,7 +2,7 @@
 Shows usage data from the Pokemon Global Link. Currently only grabs data from the special ladder (VGC16)
 
 # debugging
-npm install, then npm run dev.
+npm install, then npm run dev. Then go to localhost:8080!
 
 # tech
 * React
