@@ -1,0 +1,34 @@
+@import './../../constants/global.less';
+
+.pokemonSmall {
+  display: block;
+  width: 100%;
+  height: 100px;
+  .-image {
+    font-size: 1em;
+    text-align: left;
+    vertical-align: top;
+    width: 50%;
+    height: 100%;
+    display: inline-block;
+    float: left;
+  }
+  .-label {
+    width: 50%;
+    font-size: 1.3em;
+    float: left;
+    display: inline-block;
+    .-bar {
+      margin-top: 10px;
+      display: block;
+      height: 24px;
+      font-size: 1em;
+      padding: 0px 0px 0px 5px;
+      background-color: @medBlue;
+    }
+  }
+}
+
+.pokemonSmall:nth-of-type(even) {
+  background-color: @lightBlue;
+}
