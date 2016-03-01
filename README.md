@@ -1,5 +1,5 @@
 # battle-spot-stats
-Shows usage data from the Pokemon Global Link. Currently only grabs data from the special ladder (VGC16)
+Shows usage data from the Pokemon Global Link. Currently only grabs data from the special ladder (VGC16). Demo at http://kdjin.me/battle-spot-stats
 
 # debugging
 npm install, then npm run dev. Then go to localhost:8080!
